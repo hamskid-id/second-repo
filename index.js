@@ -33,20 +33,20 @@ function active(){
 			}
 			slides[i].classList.add("active");
 			if(i==1){
-				document.s2img1.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/9.jpg";
-				document.s2img2.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/8.jpg";
+				document.s2img1.src="https://res.cloudinary.com/hamskid/image/upload/v1595201436/second-repo/24_ihlw39.JPG";
+				document.s2img2.src="https://res.cloudinary.com/hamskid/image/upload/v1595201442/second-repo/22_oidvgl.JPG";
 			}
 			else if(i==2){
-				document.s2img1.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/7.jpg";
-				document.s2img2.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/6.jpg";
+				document.s2img1.src="https://res.cloudinary.com/hamskid/image/upload/v1595201433/second-repo/31_zcnk21.JPG";
+				document.s2img2.src="https://res.cloudinary.com/hamskid/image/upload/v1595201418/second-repo/4_e7tcqr.JPG";
 			}
 			else if(i==3){
-				document.s2img1.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/5.jpg";
-				document.s2img2.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/4.jpg";
+				document.s2img1.src="https://res.cloudinary.com/hamskid/image/upload/v1595201417/second-repo/5_y30tty.JPG";
+				document.s2img2.src="https://res.cloudinary.com/hamskid/image/upload/v1595201419/second-repo/7_qyjgqs.JPG";
 			}
 			else{
-				document.s2img1.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/14.jpg";
-				document.s2img2.src="file:///C:/Users/mlg29.LAWAL/Desktop/javascript30/newsbox/img/bg-img/15.jpg";
+				document.s2img1.src="https://res.cloudinary.com/hamskid/image/upload/v1595201430/second-repo/15_j2osix.JPG";
+				document.s2img2.src="https://res.cloudinary.com/hamskid/image/upload/v1595201436/second-repo/24_ihlw39.JPG";
 			}
 		}
 	}
