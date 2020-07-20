@@ -488,6 +488,7 @@ figure{
 		height:100%;
 		font-size:15px;
 		line-height: 40px;
+		background-attachment:fixed;
 	}
 	.s2-d-d1-d{
 		font-size:11px;
@@ -546,7 +547,7 @@ figure{
 }
 @media only screen and (min-width: 300px) and (max-width: 932px){
 	.sect1-figcap2 {
-        top: 80px;
+        top: 70px;
     }
     .sect1-figcap1 {
         top: 200px;
