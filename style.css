@@ -290,7 +290,7 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 	padding-bottom: 0%;
 	margin-top:7%;
 	text-align: center;
-	position: relative;
+	position: fixed;
 	color: white;
 	background-image: url("https://res.cloudinary.com/hamskid/image/upload/v1595201436/second-repo/10_o6hddg.JPG");
 	background-attachment: fixed;
