@@ -14,8 +14,8 @@ overall();
 
 function overall(){
 
-		tl.fromTo(hero, 2, {width:"0%"}, {visibility:"visible", width:"100%", ease:Power2.easeInOut})
-		.fromTo(slider, 2, {width:"0%"}, {visibility:"visible", width:"100%", ease:Power2.easeInOut}, "-=2");
+		tl.fromTo(hero, 2, {scaleY:"0"}, {visibility:"visible", scaleY:"1", ease:Power2.easeInOut})
+		.fromTo(slider, 2, {scaleY:"0"}, {visibility:"visible", scaleY:"1", ease:Power2.easeInOut}, "-=2");
 }
 
 
