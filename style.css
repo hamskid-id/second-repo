@@ -171,7 +171,7 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 .s2-d-d1{
 	margin-left: 4%;
 	width: 60%
-}
+sss}
 .s2-d{
 	padding-top: 3%;
 	justify-content:space-around;
@@ -181,6 +181,9 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 .section2{
 	display: flex;
 	justify-content:center;
+	
+}
+	
 .s2-d-d2{
 	flex-direction: column;
 	display: flex;
