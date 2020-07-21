@@ -175,10 +175,10 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 .s2-d{
 	padding-top: 3%;
 	
-	justify-content:center;
+	justify-content:space-around;
 	display: flex;
 	flex-direction: row;
-	margin-right:3%;
+	
 	width:100%;
 	border:1px solid red;
 }
