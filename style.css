@@ -178,9 +178,9 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 	justify-content:center;
 	display: flex;
 	flex-direction: row;
-	margin-left: 0%;
+	margin-right:3%;
 	width:100%;
-	border:2px solid red;
+	border:1px solid red;
 }
 .section2{
 	display: flex;
