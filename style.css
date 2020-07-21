@@ -174,12 +174,13 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 }
 .s2-d{
 	padding-top: 3%;
-	padding-left:0%;
+	
 	justify-content:space-around;
 	display: flex;
 	flex-direction: row;
-	margin: 0 auto;
+	margin-left: 0%;
 	width:100%;
+	border:2px solid red;
 }
 .section2{
 	display: flex;
