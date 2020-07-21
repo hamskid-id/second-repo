@@ -509,12 +509,15 @@ figure{
 		flex-direction: column;
 		padding:5%;
 		line-height: 8vh;
+		align-items: center;
+		
 	}
 	.s2-d-d2-p1{
 		width: 100%;
 	}
 	.s2-d2-d{
 		flex-direction: column;
+		align-items: center;
 	}
 	.s2-d2-d-d1{
 		flex-direction:row;
@@ -570,6 +573,7 @@ figure{
 		font-size: 15px;
 	}
 	.section1{
+		align-items: center;
 		flex-direction: column;
 	}
 	.section1-div1,.section1-div2{
@@ -577,15 +581,18 @@ figure{
 	}
 	.s2-d-d1-d2{
 		flex-direction: column;
+		align-items: center;
 	}
 	.s2-d-d2{
 		width: 100%;
 	}
 	.s2-d2-d, .s2-d2-img {
         flex-direction: column;
+		align-items: center;
     }
     .s2-d2-d-d1-d {
         flex-direction: column;
+	    align-items: center;
     }
     .img4{
     	height:25vh;
@@ -596,6 +603,7 @@ figure{
     .s4-d {
 	    display: flex;
 	    flex-direction: column;
+	    align-items: center;
     }
     .foot-d1{
     	width: 100%;
