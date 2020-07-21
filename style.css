@@ -322,6 +322,8 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 	padding-left: 5%;
 	border-top:2px solid  	#FF1493;
 	background-color:black;
+	width: 100%;
+	
 }
 .glider-next{
 	background:white;
