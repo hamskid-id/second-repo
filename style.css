@@ -181,6 +181,9 @@ sss}
 .section2{
 	display: flex;
 	justify-content:center;
+	border:2px solid red;
+	margin: 0 auto;
+	width:100%;
 	
 }
 	
