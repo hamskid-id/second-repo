@@ -154,12 +154,11 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 	justify-content: space-between;
 	align-items: center;
 	margin-left: 1.5%;
-    margin-right: 1.5%;
+        margin-right: 1.5%;
 }
 .s2-d-d1-d2{
 	justify-content: space-around;
 	margin-top:2%;
-	align-items: center;
 	display: flex;
 	flex-direction: row;
 }
@@ -177,7 +176,6 @@ a:hover,.s2-d2 a:hover,figcaption a:hover{
 	display: flex;
 	flex-direction: row;
 	width:100%;
-	border:1px solid red;
 }
 .section2{
 	display: flex;
